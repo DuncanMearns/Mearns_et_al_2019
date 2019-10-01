@@ -1,0 +1,1 @@
+virtual_prey_colors = dict(control='darkturquoise', test='tomato', inter='0.5')
